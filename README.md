@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou o Vitor 👋
 
-<!--
-**vitorcacador-alt/vitorcacador-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 HTML • C# • .NET • Python • SQL  
+🚀 Sempre aprendendo e desenvolvendo novos projetos
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- C#
+- .NET
+- Python
+- SQL
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Backend
+- Banco de Dados
+- Desenvolvimento Web
+- Engenharia de Software
+
+## 🚀 Projetos
+
+### SaveMoney
+Plataforma de controle financeiro para pessoas e empresas, desenvolvida em parceria com meu sócio.
+
+---
+
+💡 Sempre buscando aprender, construir e evoluir na área de tecnologia.## Hi there 👋
