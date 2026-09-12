@@ -1,8 +1,8 @@
 # Olá! Eu sou o Vitor 👋
 
 🎓 Estudante de Engenharia de Software  
-💻 HTML • C# • .NET • Python • SQL  
-🚀 Sempre aprendendo e desenvolvendo novos projetos
+💻 Desenvolvedor em formação | HTML • C# • .NET • Python • SQL  
+🚀 Desenvolvendo projetos e buscando evoluir na área de tecnologia
 
 ## 🛠️ Tecnologias
 
