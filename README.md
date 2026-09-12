@@ -25,14 +25,15 @@
 
 ### 💰 SaveMoney
 
-Plataforma de controle financeiro desenvolvida para ajudar pessoas e pequenas empresas a organizarem melhor suas finanças.
+> Plataforma de controle financeiro desenvolvida para ajudar pessoas e pequenas empresas a organizarem melhor suas finanças.
+
+O SaveMoney está sendo desenvolvido como um projeto acadêmico e também como uma aplicação prática, com foco em facilitar o controle financeiro dos usuários.
 
 **Tecnologias:** C# • .NET • Python • SQL • HTML
 
-👨‍💻 Projeto desenvolvido em parceria com meu sócio.
+👨‍💻 Desenvolvido em parceria com meu sócio.
 
-🔗 Em desenvolvimento
-
+🚧 Projeto em desenvolvimento
 
 ## 📫 Contato
 
@@ -40,15 +41,6 @@ Plataforma de controle financeiro desenvolvida para ajudar pessoas e pequenas em
 
 📧 E-mail: vitorcacador@outlook.com
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorcacador-alt&show_icons=true&theme=tokyonight)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorcacador-alt&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcacador-alt&layout=compact&theme=tokyonight)
 ---
 
 💡 Sempre buscando aprender, construir e evoluir na área de tecnologia.## Hi there 👋
