@@ -43,6 +43,12 @@ Plataforma de controle financeiro desenvolvida para ajudar pessoas e pequenas em
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorcacador-alt&show_icons=true&theme=tokyonight)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorcacador-alt&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcacador-alt&layout=compact&theme=tokyonight)
 ---
 
 💡 Sempre buscando aprender, construir e evoluir na área de tecnologia.## Hi there 👋
