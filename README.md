@@ -33,6 +33,14 @@ Plataforma de controle financeiro desenvolvida para ajudar pessoas e pequenas em
 
 🔗 Em desenvolvimento
 
+
+## 📫 Contato
+
+💼 LinkedIn: [Vitor Caçador](https://www.linkedin.com/in/vitor-ca%C3%A7ador-821791304/)
+
+📧 E-mail: SEU_EMAIL
+
+
 ---
 
 💡 Sempre buscando aprender, construir e evoluir na área de tecnologia.## Hi there 👋
