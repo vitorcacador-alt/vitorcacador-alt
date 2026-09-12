@@ -14,10 +14,12 @@
 
 ## 📚 Atualmente estudando
 
-- Desenvolvimento Backend
-- Banco de Dados
-- Desenvolvimento Web
-- Engenharia de Software
+- 🖥️ Desenvolvimento Backend
+- 🗄️ Banco de Dados e SQL
+- 🌐 Desenvolvimento Web
+- ⚙️ Engenharia de Software
+- 🐍 Python
+- 🔷 C# e .NET
 
 ## 🚀 Projetos
 
