@@ -23,8 +23,15 @@
 
 ## 🚀 Projetos
 
-### SaveMoney
-Plataforma de controle financeiro para pessoas e empresas, desenvolvida em parceria com meu sócio.
+### 💰 SaveMoney
+
+Plataforma de controle financeiro desenvolvida para ajudar pessoas e pequenas empresas a organizarem melhor suas finanças.
+
+**Tecnologias:** C# • .NET • Python • SQL • HTML
+
+👨‍💻 Projeto desenvolvido em parceria com meu sócio.
+
+🔗 Em desenvolvimento
 
 ---
 
