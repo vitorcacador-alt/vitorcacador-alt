@@ -45,4 +45,4 @@ O SaveMoney está sendo desenvolvido como um projeto acadêmico e também como u
 
 ---
 
-💡 Sempre buscando aprender, construir e evoluir na área de tecnologia.## Hi there 👋
+💡 Em constante aprendizado, buscando transformar conhecimento em projetos e experiências práticas.
