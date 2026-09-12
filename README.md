@@ -40,7 +40,9 @@ Plataforma de controle financeiro desenvolvida para ajudar pessoas e pequenas em
 
 📧 E-mail: vitorcacador@outlook.com
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorcacador-alt&show_icons=true&theme=tokyonight)
 ---
 
 💡 Sempre buscando aprender, construir e evoluir na área de tecnologia.## Hi there 👋
