@@ -35,6 +35,8 @@ O SaveMoney está sendo desenvolvido como um projeto acadêmico e também como u
 
 🚧 Projeto em desenvolvimento
 
+🔗 [Ver projeto no GitHub](https://github.com/vitorcacador-alt/SaveMoney)
+
 ## 📫 Contato
 
 💼 LinkedIn: [Vitor Caçador](https://www.linkedin.com/in/vitor-ca%C3%A7ador-821791304/)
